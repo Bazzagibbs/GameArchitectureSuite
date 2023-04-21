@@ -1,0 +1,15 @@
+{
+  "name": "com.bazzagibbs.gamearch",
+  "version": "1.0.0",
+  "description": "Collection of architecture-related packages",
+  "displayName": "BazzaGibbs Game Architecture",
+  "author": {
+    "name": "BazzaGibbs",
+    "email": "bazzagibbsdev@gmail.com",
+    "url": "https://bazzagibbs.com"
+  },
+  "dependencies": {
+    "com.bazzagibbs.gameevents": "latest",
+    "com.bazzagibbs.gamevariables": "latest"
+  }
+}

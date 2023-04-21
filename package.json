@@ -9,7 +9,7 @@
     "url": "https://bazzagibbs.com"
   },
   "dependencies": {
-    "com.bazzagibbs.gameevents": "1.0.0",
-    "com.bazzagibbs.gamevariables": "1.0.0"
+    "com.bazzagibbs.gameevents": "GAMEEVENTS_LATEST",
+    "com.bazzagibbs.gamevariables": "GAMEVARIABLES_LATEST"
   }
 }

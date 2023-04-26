@@ -18,6 +18,7 @@ jobs:
       # replace dependency versions with latest
       - run: sed -i "s/__GAMEEVENTS_LATEST__/$(npm view com.bazzagibbs.gameevents version)/g" package.json
       - run: sed -i "s/__GAMEVARIABLES_LATEST__/$(npm view com.bazzagibbs.gamevariables version)/g" package.json
+      - run: sed -i "s/__GAMESCENEMANAGER_LATEST__/$(npm view com.bazzagibbs.gamescenemanager version)/g" package.json
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.BAZZAGIBBS_REGISTRY_NPM_TOKEN }}

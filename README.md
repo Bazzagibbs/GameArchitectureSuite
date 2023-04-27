@@ -3,9 +3,9 @@ A collection of Unity packages for managing game architechture.
 
 | Package Name    | Scoped Registry URI           | Git URL                                                       |
 | ---             | ---                           | ---                                                           |
-| Game Variables  | com.bazzagibbs.gamevariables  | https://github.com/Bazzas-Personal-Stuff/GameVariables.git    |
-| Game Events     | com.bazzagibbs.gameevents     | https://github.com/Bazzas-Personal-Stuff/GameEvents.git       |
-| Game Scene Manager | com.bazzagibbs.gamescenemanager | https://github.com/Bazzas-Personal-Stuff/GameSceneManager.git |
+| Game Variables  | com.bazzagibbs.gamevariables  | https://github.com/Bazzagibbs/GameVariables.git    |
+| Game Events     | com.bazzagibbs.gameevents     | https://github.com/Bazzagibbs/GameEvents.git       |
+| Game Scene Manager | com.bazzagibbs.gamescenemanager | https://github.com/Bazzagibbs/GameSceneManager.git |
 | Game Console    | work-in-progress              | work-in-progress                                              |
 
 ## Installation

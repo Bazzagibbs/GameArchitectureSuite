@@ -1,12 +1,12 @@
 # Game Architecture Suite for Unity
 A collection of Unity packages for managing game architechture.
 
-| Package Name    | Scoped Registry URI           | Git URL                                                       |
-| ---             | ---                           | ---                                                           |
-| Game Variables  | com.bazzagibbs.gamevariables  | https://github.com/Bazzagibbs/GameVariables.git    |
-| Game Events     | com.bazzagibbs.gameevents     | https://github.com/Bazzagibbs/GameEvents.git       |
-| Game Scene Manager | com.bazzagibbs.gamescenemanager | https://github.com/Bazzagibbs/GameSceneManager.git |
-| Game Console    | work-in-progress              | work-in-progress                                              |
+| Package Name    | Scoped Registry URI                | Git URL                                               |
+| ---             |------------------------------------|-------------------------------------------------------|
+| Game Variables  | com.bazzagibbs.gamevariables       | https://github.com/Bazzagibbs/GameVariables.git       |
+| Game Events     | com.bazzagibbs.gameevents          | https://github.com/Bazzagibbs/GameEvents.git          |
+| Game Scene Manager | com.bazzagibbs.gamescenemanagement | https://github.com/Bazzagibbs/GameSceneManagement.git |
+| Game Console    | work-in-progress                   | work-in-progress                                      |
 
 ## Installation
 

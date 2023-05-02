@@ -11,6 +11,6 @@
   "dependencies": {
     "com.bazzagibbs.gameevents": "__GAMEEVENTS_LATEST__",
     "com.bazzagibbs.gamevariables": "__GAMEVARIABLES_LATEST__",
-    "com.bazzagibbs.gamescenemanager": "__GAMESCENEMANAGER_LATEST__"
+    "com.bazzagibbs.gamescenemanagement": "__GAMESCENEMANAGEMENT_LATEST__"
   }
 }
